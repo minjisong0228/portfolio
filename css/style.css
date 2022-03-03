@@ -218,7 +218,7 @@ body{
   .petal4{
     position: absolute;
     top: 40%; 
-     left: 85%;
+     left: 75%;
     z-index: 2;
 	width: 100%;
     max-width: 100px;
@@ -1817,3 +1817,6 @@ padding-top:30px;}
 .work_text{height:auto;}
 }
 
+.headerimg img{
+  max-width: 100%;
+}
